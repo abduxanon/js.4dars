@@ -1,12 +1,12 @@
 // 10 misol
 
-// let tomon1 = +prompt("tomon1");
-// let tomon2 = +prompt("tomon2");
-// function formate(tomon1, tomon2) {
-//   let result = tomon1 + tomon2 - 1;
-//   return result;
-// }
-// console.log(formate(tomon1,tomon2));
+let tomon1 = +prompt("tomon1");
+let tomon2 = +prompt("tomon2");
+function formate(tomon1, tomon2) {
+  let result = tomon1 + tomon2 - 1;
+  return result;
+}
+console.log(formate(tomon1,tomon2));
 
 //11 misol
 
